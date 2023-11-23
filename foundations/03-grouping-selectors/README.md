@@ -16,5 +16,8 @@ This will help you further practice adding classes and using class selectors, so
 
 ### Self Check
 - Does each element have a unique class name?
+-- Some of them.  Body was selected in bad practice just only for this exercise.
 - Did you use the grouping selector for styles that both elements share?
+--No but we could have used the parent children selection scheme.
 - Did you make separate rules for the styles unique to each element?
+--yes
