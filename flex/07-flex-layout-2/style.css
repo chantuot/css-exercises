@@ -35,6 +35,9 @@ body {
   color: darkmagenta;
 
   margin-top: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .sidebar {
@@ -42,16 +45,20 @@ body {
   min-width: 300px;
   background: royalblue;
   box-sizing: border-box;
+
+  padding: 16px;
 }
 
 ul {
   list-style-type: none;
-  padding: 5px;
+  padding: 0;
+  margin: 0;
 }
 
 a {
   color: white;
   text-decoration-line: none;
+  font-size: 24px;
 }
 
 .card {
